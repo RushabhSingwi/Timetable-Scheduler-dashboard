@@ -1,0 +1,16 @@
+{
+  "framework": "react",
+  "components": [
+    "alert",
+    "button",
+    "card",
+    "input",
+    "label",
+    "scroll-area",
+    "select",
+    "separator",
+    "table",
+    "tabs",
+    "toast"
+  ]
+}
